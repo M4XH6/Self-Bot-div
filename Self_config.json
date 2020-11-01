@@ -1,0 +1,6 @@
+{
+    "Token": "token",
+    "Gatilho" : "mensagem gatilho",
+    "Mensagem" : "mensagem passada para as pessoas",
+    "Status": "status do bot"
+}
